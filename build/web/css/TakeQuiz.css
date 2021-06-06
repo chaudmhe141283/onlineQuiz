@@ -1,0 +1,11 @@
+.btn-start{
+    display: block;
+    margin: 0 auto;
+}
+.time-remaining{
+    margin-left: 300px;
+}
+.btn-next{
+    display: block;
+    margin-left: 450px; 
+}

@@ -1,0 +1,21 @@
+SMAP
+MakeQuiz_jsp.java
+JSP
+*S JSP
+*F
++ 0 MakeQuiz.jsp
+MakeQuiz.jsp
++ 1 header.jsp
+component/header.jsp
++ 2 menu.jsp
+component/menu.jsp
+*L
+5,14:60
+5#1,12:74
+18#0,3:85
+5#2,14:88
+18:178,8
+19,2:186
+20,6:104
+20#0,52:109
+*E

@@ -1,0 +1,20 @@
+SMAP
+TakeQuizStep1_jsp.java
+JSP
+*S JSP
+*F
++ 0 TakeQuizStep1.jsp
+TakeQuizStep1.jsp
++ 1 header.jsp
+component/header.jsp
++ 2 menu.jsp
+component/menu.jsp
+*L
+5,14:50
+5#1,12:64
+18#0,3:75
+5#2,17:78
+20#0,3:94
+23:97,3
+24,18:100
+*E

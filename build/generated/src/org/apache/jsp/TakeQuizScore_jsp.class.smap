@@ -1,0 +1,18 @@
+SMAP
+TakeQuizScore_jsp.java
+JSP
+*S JSP
+*F
++ 0 TakeQuizScore.jsp
+TakeQuizScore.jsp
++ 1 header.jsp
+component/header.jsp
++ 2 menu.jsp
+component/menu.jsp
+*L
+5,14:50
+5#1,12:64
+18#0,3:75
+5#2,17:78
+20#0,19:94
+*E

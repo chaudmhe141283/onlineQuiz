@@ -1,0 +1,34 @@
+table{
+    width: 100%;
+    display: inline-table;
+
+}
+.row-questionId{
+    height: 80px;
+}
+
+.col-left{
+    width: 70%;
+}
+
+.col-right{
+    width: 30%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.paging{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.page-number{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 3px;
+    text-decoration: none;
+}
